@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roushan Poddar</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Just learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roushan1512&label=Profile%20views&color=0e75b6&style=flat" alt="roushan1512" /> </p>
 
