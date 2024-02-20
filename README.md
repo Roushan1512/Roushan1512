@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Roushan Poddar</h1>
-<h3 align="center">Just learning new things</h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="5%"/>, I'm Roushan Poddar <img/> </h1><br><br>
+
+
+<div width="100%" align="center">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="80%">
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
